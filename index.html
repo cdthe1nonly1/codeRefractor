@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css" />
-    <title>website</title>
+    <title>Horiseon Landing Page</title>
   </head>
 
   <body>
@@ -32,7 +32,9 @@
     <!-- changed from div to main -->
     <main class="content">
         <!-- changed from div to section, displaying first section in main -->
-      <section class="search-engine-optimization">
+      <section 
+      id="main-body-sections" 
+      class="main-body-sections">
         <img
           src="./assets/images/search-engine-optimization.jpg" alt="Messy Desk"
           class="float-left"
@@ -49,7 +51,7 @@
       <!-- changed from div to section displaying second section in main-->
       <section
         id="online-reputation-management"
-        class="search-engine-optimization"
+        class="main-body-sections"
       >
         <img
           src="./assets/images/online-reputation-management.jpg" alt="laptop"
@@ -65,7 +67,7 @@
         </p>
       </section>
       <!-- changed from div to section  displaying third section in main-->
-      <section id="social-media-marketing" class="search-engine-optimization">
+      <section id="social-media-marketing" class="main-body-sections">
         <img
           src="./assets/images/social-media-marketing.jpg" alt="Meeting"
           class="float-left"
@@ -82,27 +84,28 @@
     <!-- replaced div with aside -->
     <aside class="benefits">
        
-      <div class="benefit-lead">
+      <div class="benefit-subsection">
         <h3>Lead Generation</h3>
-        <img src="./assets/images/lead-generation.png" />
+        <img src="./assets/images/lead-generation.png" alt="Lead Generation Icon" />
         <p>
           Inbound strategies for lead generation require less work for your
           business, bringing customers directly to your website.
         </p>
       </div>
 
-      <div class="benefit-lead">
+      <div class="benefit-subsection">
         <h3>Brand Awareness</h3>
-        <img src="./assets/images/brand-awareness.png" />
+        <img src="./assets/images/brand-awareness.png" alt="Brand Awareness Icon"/>
         <p>
           Users find your business through paid and organic searches, increasing
           the search ranking and visibility for your business.
         </p>
       </div>
    
-      <div class="benefit-lead">
+      <div class="benefit-subsection">
         <h3>Cost Management</h3>
-        <img src="./assets/images/cost-management.png" />
+        
+        <img src="./assets/images/cost-management.png" alt="Cost managements Icon"/>
         <p>
           As the search ranking for your business increases, your advertising
           costs decrease, and you no longer need to advertise your page.

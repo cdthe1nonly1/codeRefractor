@@ -85,7 +85,7 @@ p {
     margin-left: 20px;
 }
 /* consolidated sections */
-.search-engine-optimization {
+.main-body-sections {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -113,7 +113,7 @@ p {
 } */
 
 /* consolidated sections */
-.search-engine-optimization img {
+.main-body-sections img {
     max-height: 200px;
 }
 
@@ -126,7 +126,7 @@ p {
 } */
 
 /* consolidated sections */
-.search-engine-optimization h2 {
+.main-body-sections h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -152,7 +152,7 @@ p {
     background-color: #2589bd;
 }
 /* consolidating the css file */
-.benefit-lead   { 
+.benefit-subsection   { 
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -168,7 +168,7 @@ p {
 } */
 
 /* consolidated h3 benifits */
-.benefit-lead  h3 {
+.benefit-subsection  h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -184,7 +184,7 @@ p {
 } */
 
 
-.benefit-lead  img {
+.benefit-subsection  img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
