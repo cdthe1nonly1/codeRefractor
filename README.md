@@ -4,9 +4,9 @@ codeRefracto is a html/css site for DU Coding Bootcamp.
 
 Installation
 
-Use the package manager [pip](https://cdthe1nonly1.github.io/codeRefractor/) to view.
+Use the package manager https://cdthe1nonly1.github.io/codeRefractor/ to view.
 
-image.png
+![Image Site]("C:\Users\charl\OneDrive\Desktop\Challenges\codeRefractor\cdthe1nonly1.github.io*codeRefractor* (1).png")
 
 Usage
 
